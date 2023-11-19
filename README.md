@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabro777
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning swiftUI
+- 🚵 I’m currently mastering swiftUI
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/gabriele-cusimano-6482661aa/
 - Work in progress!
 <!---
